@@ -1,0 +1,16 @@
+body {
+	background: rgb(18, 18, 18);
+}
+
+.ios .toolbar-bottom-ios, .toolbar-bottom {
+	height: 70px;
+	margin-bottom: -1px;
+}
+
+.toolbar-inner {
+	padding-bottom: 18px;
+}
+
+.actions-modal {
+	padding-bottom: 20px;
+}
